@@ -27,6 +27,7 @@ Subject area:fashion sphere
 · Providing the ability to upload photos of any clothes and shoes to determine the originality
 · The ability to create a personal shelf of goods to attract customers
 · Providing convenient tools for searching and filtering clothes/shoes by category
+
 Users who will be dealing with the "LGT-Check" mobile app include the
 following categories:
 1. People who want to make sure of further purchase
